@@ -1,0 +1,4 @@
+mex decode_soft.cpp -DLOG_Q=4 -I../common
+
+change DLOG_Q to your value for different PrimeField Size,
+For example GF(16)=4, GF(64)=6
