@@ -1,6 +1,6 @@
 # BP-decoder-for-NB_LDPC-codes Matlab with C mex files
 
-This repository contains a platform for performing Non-Binary Low-Density Parity-Check (NB-LDPC) sum-product decoding, implementing both flooding and layered approaches. It leverages the Fast Fourier Transform-QSPA (FFT-QSPA) algorithm developed by MacKay and Davey (Chapter 3.4 [1]), utilizing 2,3 values in the first parameter. Additionally, it includes majority decoding with 3,4 values.
+This repository contains a platform for performing Non-Binary Low-Density Parity-Check (NB-LDPC) sum-product decoding, implementing both flooding and layered approaches. It leverages the Fast Fourier Transform-QSPA (FFT-QSPA) algorithm developed by MacKay and Davey (Chapter 3.4 [1]), utilizing 2,3 values in the first parameter. Additionally, it includes majority decoding with 3,4 values. In commented code done Binary image optimization using weight spectrum.
 
 
 
