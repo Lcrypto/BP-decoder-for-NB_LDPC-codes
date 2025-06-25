@@ -12,6 +12,6 @@ This repository contains a platform for performing Non-Binary Low-Density Parity
 
 **References:**
 
-1.  M. C. Davey, *Error-correction using low-density parity-check codes*, Ph.D. dissertation, Univ. of Cambridge, Cambridge, U.K., Dec. 1999.
+1.  [M. C. Davey, *Error-correction using low-density parity-check codes*, Ph.D. dissertation, Univ. of Cambridge, Cambridge, U.K., Dec. 1999.](https://github.com/Lcrypto/BP-decoder-for-NB_LDPC-codes/blob/master/davey_phd.pdf) 
 2.  D. Declercq and M. Fossorier, "Decoding Algorithms for Nonbinary LDPC Codes Over GF (q) ," in *IEEE Transactions on Communications*, vol. 55, no. 4, pp. 633-643, April 2007.
 
